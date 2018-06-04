@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-select-group",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a React-Native library that allows you to easily build selection groups.",
   "main": "index.js",
   "scripts": {
