@@ -1,8 +1,7 @@
-
 {
   "name": "react-native-custom-select-group",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a React-Native library that allows you to easily build selection groups.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +9,23 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Eth3rnit3",
+  "license": "ISC",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eth3rnit3/CustomSelectGroup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eth3rnit3/CustomSelectGroup/issues"
+  },
+  "homepage": "https://github.com/Eth3rnit3/CustomSelectGroup#readme"
 }
