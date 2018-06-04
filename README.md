@@ -8,13 +8,14 @@ This is a React-Native library that allows you to easily build selection groups.
 ###### module installation
 
 ```shell
-npm install --save 'react-native-custom-group-selector'
+npm install --save 'react-native-custom-select-group'
 ```
 
 #### Basic usage
 First, you must choose `'checkbox'` or `'radio'`
 
 ```javascript
+import RNCustomSelectGroup from 'react-native-custom-select-group';
 // Checkbox type
 <RNCustomSelectGroup 
   selectType={'checkbox'}
